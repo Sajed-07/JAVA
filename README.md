@@ -1,16 +1,76 @@
-<h1 align="center">Hi 👋, I'm Sajed-07</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajedul-islam-1b1158319?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajedul-islam-1b1158319?" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/batman_chef_82" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/batman_chef_82" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/isajedul21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/isajedul21" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/isajedul21?csrf_token=7a8892a3ae69fe6aae182b9145ed46ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/isajedul21?csrf_token=7a8892a3ae69fe6aae182b9145ed46ab" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/icit8iuds4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/icit8iuds4/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/isajedul21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/isajedul21" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+What is Java?
+
+Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible. It was developed by Sun Microsystems (now owned by Oracle) and released in 1995.
+
+
+---
+
+Key Features of Java
+
+Platform Independent (Write Once, Run Anywhere):
+Java code is compiled into bytecode, which runs on the Java Virtual Machine (JVM). This means Java programs can run on any device or operating system that has a JVM installed.
+
+Object-Oriented:
+Java is built around objects and classes, making code reusable and modular.
+
+Strongly Typed:
+Variables must have declared data types, and type-checking is strict.
+
+Automatic Memory Management:
+Java has a built-in garbage collector that automatically manages memory, freeing developers from manual memory allocation and deallocation.
+
+Robust and Secure:
+Java has strong error handling and security features that make it suitable for large and critical applications.
+
+
+
+---
+
+What Can You Do with Java?
+
+Build Enterprise Applications:
+Java is widely used in large-scale business applications, banking systems, and enterprise servers.
+
+Develop Android Apps:
+Java (alongside Kotlin) is the primary language for Android app development.
+
+Create Web Applications:
+Using frameworks like Spring and Java EE.
+
+Build Desktop Applications:
+With libraries like Swing and JavaFX.
+
+Develop Embedded Systems:
+Java runs on many devices, from smart cards to sensors.
+
+
+
+---
+
+Example of Simple Java Code
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+
+---
+
+Why is Java Important?
+
+Cross-platform compatibility makes it very versatile.
+
+It’s widely used in industry, from startups to large corporations.
+
+It has a large ecosystem of libraries, frameworks, and tools.
+
+It’s a great language for learning core programming concepts due to its syntax and structure.
+
+
+
+
 
